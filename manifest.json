@@ -14,5 +14,11 @@
             "run_at": "document_end"
         }
         ],
-        "permissions":  ["storage", "activeTab", "scripting", "tabs"]
+        "permissions":  ["storage", "activeTab", "scripting", "tabs"],
+        "icons": {
+            "16": "/images/freedom.png",
+            "32": "/images/freedom.png",
+            "48": "/images/freedom.png",
+            "128": "/images/freedom.png"
+          }
 }
